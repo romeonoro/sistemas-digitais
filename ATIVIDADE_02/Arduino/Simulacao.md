@@ -2,7 +2,7 @@
 
 1. Abra a IDE do Arduino.
 
-2. Cole o código no editor. 
+2. Cole o código no editor. [`sketch_aug13a.ino`](https://github.com/romeonoro/sistemas-digitais/blob/main/ATIVIDADE_02/Arduino/sketch_aug13a.ino)
 
 3. Carregue o código na placa Arduino.
 
