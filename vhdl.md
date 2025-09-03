@@ -54,3 +54,15 @@
   - **Configurar** (gerar o arquivo bitstream e carregar no FPGA).  
 
 👉 Vivado é para FPGA o que o **Arduino IDE** é para Arduino, mas muito mais poderoso (voltado para hardware).  
+
+---
+
+## 🔹 RTL (Register Transfer Level)
+- RTL (Register Transfer Level) é um nível de abstração usado no projeto de circuitos digitais.
+- Nesse nível, o sistema é descrito em termos de transferência de dados entre registradores e as operações lógicas realizadas sobre esses dados.
+- É a forma como o VHDL (ou Verilog) normalmente é interpretado quando se projeta hardware.
+
+- Características principais:
+  - Foca em como os dados se movem entre registradores e quais operações (somadores, multiplexadores, comparadores, etc.) são realizadas.
+  - É mais baixo que a descrição comportamental ("o que o sistema faz") e mais alto que a descrição estrutural em portas lógicas.
+  - É a base para a síntese em FPGA ou ASIC: o compilador pega a descrição RTL e a converte em portas lógicas e conexões físicas.
