@@ -1,5 +1,3 @@
-# VHDL, FPGA, Arduino, ASICs e Vivado
-
 ## 🔹 VHDL
 - **VHDL (VHSIC Hardware Description Language)** é uma **linguagem de descrição de hardware**.  
 - Diferente de linguagens como C ou Java, que descrevem algoritmos para execução sequencial em um processador, o VHDL descreve **circuitos digitais** (portas lógicas, registradores, máquinas de estados, etc.).  
@@ -46,7 +44,7 @@
 
 ---
 
-## 🔹 Vivado (software da Xilinx/AMD)
+## 🔹 Vivado 2015.1 (software da Xilinx/AMD)
 - Ferramenta de desenvolvimento para FPGAs da Xilinx (hoje AMD).  
 - Permite:  
   - **Escrever** código em VHDL/Verilog.  
