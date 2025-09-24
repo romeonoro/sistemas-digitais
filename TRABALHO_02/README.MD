@@ -16,7 +16,7 @@ O projeto implementa um **Somador de 2 bits**, onde a soma é feita utilizando o
 
 ## 🔍 2. Detector de Sequência (FSM 5 Bits)
 
-![Detector de sequência](sequencia.png)
+![Detector de sequência](detector.png)
 
 Este projeto implementa uma **Máquina de Estados Finitos (FSM)** do tipo **Moore**, responsável por detectar a sequência de 5 bits `11010`. A saída `detect` é ativada quando essa sequência é detectada.
 
